@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Kantchev
+    given-names: V
+    orcid: 
+title: "Plotting data from TROPESS Level 2 products"
+version: 0.2.0
+doi: 10.5281/zenodo.7963481
+date-released: 2023-05-23

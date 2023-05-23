@@ -98,11 +98,8 @@ The spacially interpolated plots use SciPy cKDTree with a maximum distance to pr
 
 ![Methane Partial Column (pbbv) - interpolated plot](./examples/figure_ckdtree_5.0_degrees.png)
 
-## Citing this code
+## Citing this software
 
-Plotting data from TROPESS Level 2 products. 
+If you use this software, please cite it as below:
 
-2023, V. Kantchev, Swift Software Group
-
-https://doi.org/10.5281/zenodo.7963481
-
+Plotting data from TROPESS Level 2 products. 2023, V. Kantchev, Swift Software Group, DOI: [10.5281/zenodo.7963481](https://doi.org/10.5281/zenodo.7963481)
