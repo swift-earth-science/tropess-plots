@@ -20,7 +20,7 @@ Browse TROPESS products:
 open https://disc.gsfc.nasa.gov/datasets?keywords=tropess
 ```
 
-To see all the available data for Methane (CH4) go to the Online Archive for CH4:
+We will be using CrIS JPSS-1 Methane forward stream. To see all the available data for CrIS JPSS-1 Methane (CH4) go to the CrIS JPSS-1 Online Archive for CH4:
 
 ```bash
 open https://tropess.gesdisc.eosdis.nasa.gov/data/TROPESS_Summary/TRPSYL2CH4CRS1FS.1
