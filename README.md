@@ -76,9 +76,9 @@ code .
 
 Bias corrected column-averaged dry air mixing ratio of Methane for the column from 826 hPa to Top of Atmosphere (TOA) in ppbv. 
 
-The scatter plot is adirect plot of the data values.
+The scatter plot is a direct plot of the data values.
 
-The spacially interpolated plots use SciPy cKDTree for interpolation. 
+The spacially interpolated plots use SciPy cKDTree with a maximum distance to preserve large areas where there is no data. 
 
 ### Scatter Plot
 
