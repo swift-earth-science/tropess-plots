@@ -12,7 +12,7 @@ See [Setup](./docs/setup.md)
 
 See [Data Access](./docs/data-access.md)
 
-## Look around
+## Browse products
 
 Browse TROPESS products:
 
@@ -20,7 +20,7 @@ Browse TROPESS products:
 open https://disc.gsfc.nasa.gov/datasets?keywords=tropess
 ```
 
-To see all the available data for Methane (CH4) go to teh Online Archive for CH4:
+To see all the available data for Methane (CH4) go to the Online Archive for CH4:
 
 ```bash
 open https://tropess.gesdisc.eosdis.nasa.gov/data/TROPESS_Summary/TRPSYL2CH4CRS1FS.1
