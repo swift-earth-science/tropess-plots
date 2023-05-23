@@ -2,6 +2,8 @@
 
 Plotting data from TROPESS Level 2 products
 
+[![DOI](https://zenodo.org/badge/644506221.svg)](https://zenodo.org/badge/latestdoi/644506221)
+
 ## Setup
 
 See [Setup](./docs/setup.md)
@@ -95,3 +97,12 @@ The spacially interpolated plots use SciPy cKDTree with a maximum distance to pr
 ### Spacial interpolation (5 degrees distance)
 
 ![Methane Partial Column (pbbv) - interpolated plot](./examples/figure_ckdtree_5.0_degrees.png)
+
+## Citing this code
+
+Plotting data from TROPESS Level 2 products. 
+
+2023, V. Kantchev, Swift Software Group
+
+https://doi.org/10.5281/zenodo.7963481
+
