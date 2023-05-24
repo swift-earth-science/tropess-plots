@@ -5,6 +5,6 @@ authors:
     given-names: V
     orcid: https://orcid.org/0009-0008-8961-4573
 title: "Plotting data from TROPESS Level 2 products"
-version: 0.2.0
+version: 0.3.0
 doi: 10.5281/zenodo.7963481
 date-released: 2023-05-23
