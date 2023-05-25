@@ -102,5 +102,5 @@ The spacially interpolated plots use SciPy cKDTree with a maximum distance to pr
 
 If you use this software, please cite it as below:
 
-Kantchev, V. (2023). Plotting data from TROPESS Level 2 products. Swift Software Group.
+Kantchev, V., Plotting data from TROPESS Level 2 products (2023), Swift Software Group
 [![DOI](https://zenodo.org/badge/644506221.svg)](https://zenodo.org/badge/latestdoi/644506221)
