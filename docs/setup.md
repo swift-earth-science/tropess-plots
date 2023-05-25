@@ -1,5 +1,4 @@
-# plot-tropess
-Plot Level 2 data from TROPESS data products 
+# Setup
 
 ### macOS
 
